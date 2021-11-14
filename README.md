@@ -6,6 +6,7 @@
 - ✨ https://youtu.be/WWa6WOSgBHU
 - ✨ https://youtu.be/gQp4GZ52OEk
 - ✨ https://youtu.be/a1qtN2hptXs
+- KTU Python Courses: https://github.com/sarithdm/python
 
 <!---
 sarithdm/sarithdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
