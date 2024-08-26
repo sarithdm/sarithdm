@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sarith Divakar M
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Computer Vision Algorithms
-- 💞️ I’m looking to collaborate on Smart Farming Projects
+- I had  co-authored a book "Cloud Computing & Big Data: From the Basics to Practical Use Cases". Buy now on Amazon: https://www.amazon.in/dp/9360533955
 - 📫 You can reach me on https://sites.google.com/lbscek.ac.in/sarith
 - ✨ https://youtu.be/WWa6WOSgBHU
 - ✨ https://youtu.be/gQp4GZ52OEk
